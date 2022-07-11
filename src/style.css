@@ -4,7 +4,7 @@
 ul {list-style: none;}
 a {color: inherit; text-decoration: none;}
 
-body {background: #EEE;}
+body {border:1px solid red;background: #EEE;}
 
 img {
     max-width: 100%;
